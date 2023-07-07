@@ -1,0 +1,12 @@
+# nyt daily
+https://feeds.simplecast.com/54nAGcIl
+# npr news
+https://feeds.npr.org/1001/rss.xml
+# npr technology
+https://feeds.npr.org/1019/rss.xml
+# npr economy
+https://feeds.npr.org/1017/rss.xml
+# npr science
+https://feeds.npr.org/1007/rss.xml
+# cnn top stories
+http://rss.cnn.com/rss/cnn_topstories.rss
